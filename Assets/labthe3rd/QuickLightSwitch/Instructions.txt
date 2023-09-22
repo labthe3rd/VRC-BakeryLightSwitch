@@ -1,0 +1,3 @@
+This script was made to turn realtime lights on/off when using bakery.
+
+To use simply place the prefab into the scene. Press enable realtime lights or disable realtime lights. You can add lights to exclude from the script.
